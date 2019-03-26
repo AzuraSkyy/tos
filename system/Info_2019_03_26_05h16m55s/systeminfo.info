@@ -1,0 +1,282 @@
+*************************************************************************************
+Notice
+이 파일은 문제 해결을 위해 기록되며, 외부로 자동 전송되지 않습니다. 
+게임 실행에 문제가 발생하는 경우, 고객센터 문의 페이지의 안내에 따라 첨부해 주세요.
+- 이 파일은 런처가 실행될 때 생성됩니다.
+- 이 파일에 기록되는 정보는 다음과 같습니다.
+1. 게임 설치 경로
+2. 하드웨어 정보(CPU, Mainboard, RAM, GPU) 및 OS 정보
+3. 런처 실행시점의 프로세스 목록
+4. 애드온 목록
+*************************************************************************************
+
+TOS Install Path = c:/program files (x86)/steam/steamapps/common/treeofsavior/
+
+This computer has 1 CPU(s) installed
+Information for CPU #1: 
+CPU Name = Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz
+CPU Manufacturer = GenuineIntel
+Number of CPU Cores = 4
+Current CPU Clock Speed = 3201MHz
+CPU Architecture = x86_64
+CPU L2 Cache Size = 1024KB
+CPU L3 Cache Size = 6144KB
+
+This computer has 1 motherboard(s) installed
+Information for motherboard #1: 
+Motherboard Name = H170-Gaming 3
+Motherboard Manufacturer = Gigabyte Technology Co., Ltd.
+Motherboard Chipset = Intel(R) 100 Series/C230 Series Chipset
+Motherboard Version = x.x
+
+This computer has 2 RAM stick(s) installed
+Information for RAM stick #1: 
+RAM Name = ChannelA-DIMM0
+RAM Manufacturer = 0420
+RAM Capacity = 4294MB (4294967296 Bytes)
+RAM Form Factor = DIMM
+RAM Part Number = F4-2133C15-4GVR     
+RAM Memory Type = Unknown
+RAM Clock Speed = 2133MHz
+
+Information for RAM stick #2: 
+RAM Name = ChannelB-DIMM0
+RAM Manufacturer = 0420
+RAM Capacity = 4294MB (4294967296 Bytes)
+RAM Form Factor = DIMM
+RAM Part Number = F4-2133C15-4GVR     
+RAM Memory Type = Unknown
+RAM Clock Speed = 2133MHz
+
+This computer has 2 GPU(s) installed
+Information for GPU #1: 
+GPU Name = NVIDIA GeForce GTX 570
+GPU Manufacturer = NVIDIA
+GPU Caption = NVIDIA GeForce GTX 570
+GPU Adapter RAM = 1342MB (1342177280 Bytes)
+GPU Refresh Rate = 144MHz
+GPU Driver Version = 23.21.13.9135
+GPU Video Architecture = Unknown
+GPU Video Mode Description = 1920 x 1080 x 4294967296 colors
+GPU Video Processor = GeForce GTX 570
+
+Information for GPU #2: 
+GPU Name = Intel(R) HD Graphics 530
+GPU Manufacturer = Intel Corporation
+GPU Caption = Intel(R) HD Graphics 530
+GPU Adapter RAM = 1073MB (1073741824 Bytes)
+GPU Refresh Rate = MHz
+GPU Driver Version = 25.20.100.6323
+GPU Video Architecture = Unknown
+GPU Video Mode Description = 
+GPU Video Processor = Intel(R) HD Graphics Family
+
+This computer has 1 OS(s) installed
+Information for OS #1: 
+OS Name = Microsoft Windows 10 Pro|C:\WINDOWS|\Device\Harddisk0\Partition2
+OS Manufacturer = Microsoft Corporation
+OS Caption = Microsoft Windows 10 Pro
+OS Version = 10.0.17763
+Current User = 
+Install Date = 20190117214419.000000-300
+Build Number = 17763
+Last Boot Up Time = 20190326044947.500000-300
+Boot Device = \Device\HarddiskVolume1
+Total Virtual Memory = 13771MB (13771288 KB)
+Total Visible Memory = 8266MB (8266264 KB)
+Total Swap Size = Unknown
+Free Physical Memory = 5156MB (5156676 KB)
+Free Virtual Memory = 9632MB (9632768 KB)
+Free Paging File Space = 5455MB (5455768 KB)
+Used Paging File Space = 5505MB (5505024 KB)
+Current Date Time = Unknown
+
+Current Process List :
+[System Process]
+System
+Registry
+smss.exe
+csrss.exe
+wininit.exe
+csrss.exe
+winlogon.exe
+services.exe
+lsass.exe
+svchost.exe
+fontdrvhost.exe
+fontdrvhost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+dwm.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+NVDisplay.Container.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+Memory Compression
+NVDisplay.Container.exe
+svchost.exe
+igfxCUIService.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+spoolsv.exe
+svchost.exe
+svchost.exe
+svchost.exe
+NvTelemetryContainer.exe
+IntelCpHDCPSvc.exe
+svchost.exe
+svchost.exe
+GameScannerService.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+IntelCpHeciSvc.exe
+svchost.exe
+MsMpEng.exe
+svchost.exe
+svchost.exe
+sihost.exe
+svchost.exe
+PresentationFontCache.exe
+svchost.exe
+svchost.exe
+taskhostw.exe
+svchost.exe
+ctfmon.exe
+svchost.exe
+SearchIndexer.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+igfxEM.exe
+RuntimeBroker.exe
+RuntimeBroker.exe
+svchost.exe
+SettingSyncHost.exe
+NisSrv.exe
+RtkNGUI64.exe
+chrome.exe
+svchost.exe
+svchost.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+Video.UI.exe
+chrome.exe
+audiodg.exe
+chrome.exe
+Discord.exe
+dllhost.exe
+Discord.exe
+svchost.exe
+Discord.exe
+Discord.exe
+RuntimeBroker.exe
+svchost.exe
+SgrmBroker.exe
+Discord.exe
+Discord.exe
+Steam.exe
+steamwebhelper.exe
+SteamService.exe
+steamwebhelper.exe
+steamwebhelper.exe
+steamwebhelper.exe
+svchost.exe
+svchost.exe
+steamwebhelper.exe
+svchost.exe
+SecurityHealthService.exe
+svchost.exe
+Calculator.exe
+ApplicationFrameHost.exe
+Music.UI.exe
+svchost.exe
+explorer.exe
+ShellExperienceHost.exe
+SearchUI.exe
+SndVol.exe
+RuntimeBroker.exe
+chrome.exe
+Taskmgr.exe
+dllhost.exe
+dllhost.exe
+tos.exe
+WmiPrvSE.exe
+conhost.exe
+
+Addon List :
+addon.ipf
+animation.ipf
+bg.ipf
+bg_hi.ipf
+bg_hi2.ipf
+bg_hi3.ipf
+bg_lightcell.ipf
+bg_texture.ipf
+binary.ipf
+char_hi.ipf
+char_texture.ipf
+char_texture_low.ipf
+deadslice.ipf
+decal.ipf
+effect.ipf
+etc.ipf
+font.ipf
+global.ipf
+ies.ipf
+ies_ability.ipf
+ies_client.ipf
+ies_mongen.ipf
+item_hi.ipf
+item_texture.ipf
+item_texture_low.ipf
+language.ipf
+scriptapi.ipf
+script_client.ipf
+shader.ipf
+shared.ipf
+sound.ipf
+sprite.ipf
+SumAni.ipf
+templatepc.ipf
+ui.ipf
+xml.ipf
+xml_client.ipf
+xml_lang.ipf
+xml_minigame.ipf
+xml_sklmove.ipf
+xml_tool.ipf
+xml_tree.ipf

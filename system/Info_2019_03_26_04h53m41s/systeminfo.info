@@ -1,0 +1,296 @@
+*************************************************************************************
+Notice
+This file serves as a record for issue-solving purposes. Its data is not automatically transmitted to us.
+Should you encounter game execution issues, kindly attach this file to your Support ticket.
+- This file is created when the launcher is executed.
+- This file records the following data:
+1. Game installation path
+2. Hardware (CPU, motherboard, RAM, GPU) and OS information
+3. List of ongoing processes when the launcher is executed
+4. List of existing addons
+*************************************************************************************
+
+TOS Install Path = c:/program files (x86)/steam/steamapps/common/treeofsavior/
+
+This computer has 1 motherboard(s) installed
+Information for motherboard #1: 
+Motherboard Name = H170-Gaming 3
+Motherboard Manufacturer = Gigabyte Technology Co., Ltd.
+Motherboard Chipset = Intel(R) 100 Series/C230 Series Chipset
+Motherboard Version = x.x
+
+This computer has 2 RAM stick(s) installed
+Information for RAM stick #1: 
+RAM Name = ChannelA-DIMM0
+RAM Manufacturer = 0420
+RAM Capacity = 4294MB (4294967296 Bytes)
+RAM Form Factor = DIMM
+RAM Part Number = F4-2133C15-4GVR     
+RAM Memory Type = Unknown
+RAM Clock Speed = 2133MHz
+
+Information for RAM stick #2: 
+RAM Name = ChannelB-DIMM0
+RAM Manufacturer = 0420
+RAM Capacity = 4294MB (4294967296 Bytes)
+RAM Form Factor = DIMM
+RAM Part Number = F4-2133C15-4GVR     
+RAM Memory Type = Unknown
+RAM Clock Speed = 2133MHz
+
+This computer has 2 GPU(s) installed
+Information for GPU #1: 
+GPU Name = NVIDIA GeForce GTX 570
+GPU Manufacturer = NVIDIA
+GPU Caption = NVIDIA GeForce GTX 570
+GPU Adapter RAM = 1342MB (1342177280 Bytes)
+GPU Refresh Rate = 144MHz
+GPU Driver Version = 23.21.13.9135
+GPU Video Architecture = Unknown
+GPU Video Mode Description = 1920 x 1080 x 4294967296 colors
+GPU Video Processor = GeForce GTX 570
+
+Information for GPU #2: 
+GPU Name = Intel(R) HD Graphics 530
+GPU Manufacturer = Intel Corporation
+GPU Caption = Intel(R) HD Graphics 530
+GPU Adapter RAM = 1073MB (1073741824 Bytes)
+GPU Refresh Rate = MHz
+GPU Driver Version = 25.20.100.6323
+GPU Video Architecture = Unknown
+GPU Video Mode Description = 
+GPU Video Processor = Intel(R) HD Graphics Family
+
+This computer has 1 OS(s) installed
+Information for OS #1: 
+OS Name = Microsoft Windows 10 Pro|C:\WINDOWS|\Device\Harddisk0\Partition2
+OS Manufacturer = Microsoft Corporation
+OS Caption = Microsoft Windows 10 Pro
+OS Version = 10.0.17763
+Current User = 
+Install Date = 20190117214419.000000-300
+Build Number = 17763
+Last Boot Up Time = 20190326044947.500000-300
+Boot Device = \Device\HarddiskVolume1
+Total Virtual Memory = 13771MB (13771288 KB)
+Total Visible Memory = 8266MB (8266264 KB)
+Total Swap Size = Unknown
+Free Physical Memory = 4768MB (4768072 KB)
+Free Virtual Memory = 9813MB (9813772 KB)
+Free Paging File Space = 5505MB (5505024 KB)
+Used Paging File Space = 5505MB (5505024 KB)
+Current Date Time = Unknown
+
+Current Process List :
+[System Process]
+System
+Registry
+smss.exe
+csrss.exe
+wininit.exe
+csrss.exe
+winlogon.exe
+services.exe
+lsass.exe
+svchost.exe
+fontdrvhost.exe
+fontdrvhost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+dwm.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+NVDisplay.Container.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+Memory Compression
+NVDisplay.Container.exe
+svchost.exe
+igfxCUIService.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+spoolsv.exe
+svchost.exe
+svchost.exe
+svchost.exe
+NvTelemetryContainer.exe
+IntelCpHDCPSvc.exe
+svchost.exe
+svchost.exe
+GameScannerService.exe
+svchost.exe
+svchost.exe
+svchost.exe
+TeamViewer_Service.exe
+svchost.exe
+svchost.exe
+IntelCpHeciSvc.exe
+svchost.exe
+MsMpEng.exe
+svchost.exe
+svchost.exe
+svchost.exe
+sihost.exe
+svchost.exe
+PresentationFontCache.exe
+svchost.exe
+svchost.exe
+taskhostw.exe
+nvcontainer.exe
+svchost.exe
+ctfmon.exe
+svchost.exe
+explorer.exe
+svchost.exe
+TeamViewer.exe
+SearchIndexer.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+svchost.exe
+igfxEM.exe
+ShellExperienceHost.exe
+SearchUI.exe
+RuntimeBroker.exe
+tv_w32.exe
+tv_x64.exe
+SearchProtocolHost.exe
+RuntimeBroker.exe
+svchost.exe
+svchost.exe
+SkypeApp.exe
+SkypeBackgroundHost.exe
+backgroundTaskHost.exe
+YourPhone.exe
+SearchFilterHost.exe
+SettingSyncHost.exe
+backgroundTaskHost.exe
+NisSrv.exe
+backgroundTaskHost.exe
+RuntimeBroker.exe
+RtkNGUI64.exe
+chrome.exe
+svchost.exe
+svchost.exe
+chrome.exe
+chrome.exe
+RuntimeBroker.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+chrome.exe
+Video.UI.exe
+RuntimeBroker.exe
+chrome.exe
+audiodg.exe
+chrome.exe
+chrome.exe
+Discord.exe
+RuntimeBroker.exe
+dllhost.exe
+Discord.exe
+svchost.exe
+Discord.exe
+NvTmMon.exe
+NvProfileUpdater64.exe
+RuntimeBroker.exe
+Discord.exe
+RuntimeBroker.exe
+svchost.exe
+svchost.exe
+SgrmBroker.exe
+RuntimeBroker.exe
+Discord.exe
+Discord.exe
+Steam.exe
+WmiPrvSE.exe
+steamwebhelper.exe
+SteamService.exe
+steamwebhelper.exe
+steamwebhelper.exe
+WmiPrvSE.exe
+svchost.exe
+steamwebhelper.exe
+taskhostw.exe
+OneDriveStandaloneUpdater.exe
+svchost.exe
+sppsvc.exe
+svchost.exe
+svchost.exe
+dbInstaller.exe
+tos.exe
+steamwebhelper.exe
+conhost.exe
+
+Addon List :
+addon.ipf
+animation.ipf
+bg.ipf
+bg_hi.ipf
+bg_hi2.ipf
+bg_hi3.ipf
+bg_lightcell.ipf
+bg_texture.ipf
+binary.ipf
+char_hi.ipf
+char_texture.ipf
+char_texture_low.ipf
+deadslice.ipf
+decal.ipf
+effect.ipf
+etc.ipf
+font.ipf
+global.ipf
+ies.ipf
+ies_ability.ipf
+ies_client.ipf
+ies_mongen.ipf
+item_hi.ipf
+item_texture.ipf
+item_texture_low.ipf
+language.ipf
+scriptapi.ipf
+script_client.ipf
+shader.ipf
+shared.ipf
+sound.ipf
+sprite.ipf
+SumAni.ipf
+templatepc.ipf
+ui.ipf
+xml.ipf
+xml_client.ipf
+xml_lang.ipf
+xml_minigame.ipf
+xml_sklmove.ipf
+xml_tool.ipf
+xml_tree.ipf
